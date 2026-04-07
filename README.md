@@ -1,4 +1,4 @@
-# phimac-support.github.io
+# mg-real-estate.github.io
 
 This repository exists solely to serve the **MTA-STS policy** for `mgrealestate.eu` via GitHub Pages.
 
@@ -19,7 +19,7 @@ The custom domain `mta-sts.mgrealestate.eu` points to this GitHub Pages site, ma
 ## Repository contents
 
 - [`.well-known/mta-sts.txt`](.well-known/mta-sts.txt) — the MTA-STS policy file
-- [`CNAME.txt`](CNAME.txt) — contains the custom domain (`mta-sts.mgrealestate.eu`) used by GitHub Pages; rename to `CNAME` (no extension) to activate it
+- [`CNAME`](CNAME) — contains the custom domain (`mta-sts.mgrealestate.eu`) used by GitHub Pages; rename to `CNAME` (no extension) to activate it
 - [`_config.yml`](_config.yml) — Jekyll config to ensure the `.well-known` directory is included
 
 ## Do not modify
